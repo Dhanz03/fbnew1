@@ -24,8 +24,11 @@ $ pip install rich
 $ git clone https://github.com/Dhanz03/fbnew1 
 
 $ cd fbnew1 
+
 #Untuk update 
+
 $ git pull 
+
 
 $ ls 
 
