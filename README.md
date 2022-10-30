@@ -25,7 +25,7 @@ $ git clone https://github.com/Dhanz03/fbnew1
 
 $ cd fbnew1 
 
-#Untuk update 
+# Untuk update 
 
 $ git pull 
 
