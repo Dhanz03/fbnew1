@@ -21,7 +21,7 @@ $ pip install bs4
 
 $ pip install rich
 
-$ git clone https://github.com/Dhanz03/fbnew1 
+$ git clone https://github.com/Dhanz03/fbnew1
 
 $ cd fbnew1 
 
@@ -32,4 +32,4 @@ $ git pull
 
 $ ls 
 
-$ python fbnew.py
+$ python skuy.py
